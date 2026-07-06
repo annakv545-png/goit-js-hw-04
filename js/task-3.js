@@ -1,4 +1,3 @@
-
 const profile = {
   username: "Jacob",
   playTime: 300,
@@ -15,7 +14,6 @@ const profile = {
     return `${this.username} has ${this.playTime} active hours!`;
   },
 };
-
 
 
 
